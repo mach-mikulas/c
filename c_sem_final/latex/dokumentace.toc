@@ -1,0 +1,36 @@
+\babel@toc {czech}{}\relax 
+\contentsline {chapter}{\numberline {1}Zadání}{2}{}%
+\contentsline {chapter}{\numberline {2}Analýza úlohy}{3}{}%
+\contentsline {section}{\numberline {2.1}Naivní bayesovský klasifikátor}{3}{}%
+\contentsline {subsection}{\numberline {2.1.1}Fáze učení}{3}{}%
+\contentsline {subsection}{\numberline {2.1.2}Fáze klasifikace}{3}{}%
+\contentsline {section}{\numberline {2.2}Datová struktura}{4}{}%
+\contentsline {subsection}{\numberline {2.2.1}Spojový seznam}{4}{}%
+\contentsline {subsection}{\numberline {2.2.2}Trie}{5}{}%
+\contentsline {subsection}{\numberline {2.2.3}Rozptýlená tabulka}{5}{}%
+\contentsline {subsection}{\numberline {2.2.4}Rozhodnutí}{6}{}%
+\contentsline {chapter}{\numberline {3}Implementace}{7}{}%
+\contentsline {section}{\numberline {3.1}Hashtable}{7}{}%
+\contentsline {subsection}{\numberline {3.1.1}Struktura item}{7}{}%
+\contentsline {subsection}{\numberline {3.1.2}Struktura hashtable}{7}{}%
+\contentsline {subsection}{\numberline {3.1.3}Funkce tabulky}{8}{}%
+\contentsline {subsubsection}{item\_create()}{8}{}%
+\contentsline {subsubsection}{hashtable\_create()}{8}{}%
+\contentsline {subsubsection}{hash()}{8}{}%
+\contentsline {subsubsection}{hashtable\_find()}{8}{}%
+\contentsline {subsubsection}{add\_count()}{8}{}%
+\contentsline {subsubsection}{hashtable\_insert()}{8}{}%
+\contentsline {section}{\numberline {3.2}Input}{8}{}%
+\contentsline {subsection}{\numberline {3.2.1}Funkce}{9}{}%
+\contentsline {subsubsection}{read\_word()}{9}{}%
+\contentsline {subsubsection}{load()}{9}{}%
+\contentsline {section}{\numberline {3.3}Bayes}{9}{}%
+\contentsline {subsection}{\numberline {3.3.1}Funkce}{9}{}%
+\contentsline {subsubsection}{count()}{9}{}%
+\contentsline {subsubsection}{probabilities()}{9}{}%
+\contentsline {subsubsection}{bayes\_one\_file()}{9}{}%
+\contentsline {subsubsection}{bayes()}{10}{}%
+\contentsline {chapter}{\numberline {4}Uživatelská příručka }{11}{}%
+\contentsline {section}{\numberline {4.1}Přeložení programu}{11}{}%
+\contentsline {section}{\numberline {4.2}Spuštění programu}{11}{}%
+\contentsline {chapter}{\numberline {5}Závěr}{12}{}%
